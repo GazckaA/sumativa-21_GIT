@@ -6,6 +6,6 @@
     <title>Reloj Digital</title>
 </head>
 <body>
-    hola
+    adios
 </body>
 </html>
