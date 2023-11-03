@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>Reloj!</h1>
-
+    <h4 id="mensaje"></h4>
     <p id="item"></p>
 
     <!--Bootstrap-->
